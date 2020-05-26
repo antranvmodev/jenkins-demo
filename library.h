@@ -1,0 +1,6 @@
+#ifndef JENKINS_DEMO_LIBRARY_H
+#define JENKINS_DEMO_LIBRARY_H
+
+void hello();
+
+#endif //JENKINS_DEMO_LIBRARY_H
